@@ -1,0 +1,5 @@
+excludes:
+  scopes:
+    - pattern: "all"
+      reason: "DEV_DEPENDENCY_OF"
+      comment: "Packages to build all targets including tests only."
